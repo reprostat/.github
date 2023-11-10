@@ -1,5 +1,11 @@
 # Reproducible Analysis and Statistics
-We aim to develop an analysis framework to facilitate reproducible and flexible neuroimaging analyses and allow the assessment and optimisation of the reproducibility of such analyses.
+We aim to develop an analysis framework to facilitate reproducible and flexible neuroimaging analyses and allow the assessment and optimisation of the reproducibility of such analyses. 
+ 
+We also provide some educational materials to emphasize and demonstrate reproducible practices in neuroimaging.
+
+## Table of Contents
+* [Principles](#principles)
+* [Resources](#resources)
 
 ## Principles
 We focus on three main principles to support reproducible analyses.
@@ -22,3 +28,5 @@ We focus on three main principles to support reproducible analyses.
 - Core + extensions architecture
 - Interface to download data from common sources, including OpenNEURO
 - Installation scripts for tools
+
+## Resources
