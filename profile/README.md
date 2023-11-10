@@ -1,5 +1,5 @@
 # Reproducible Analysis and Statistics
-We aim to develop an analysis framework to support and assess reproducibility in neuroimaging.
+We aim to develop an analysis framework to facilitate reproducible and flexible neuroimaging analyses and allow the assessment and optimisation of the reproducibility of such analyses.
 
 ## Principles
 We focus on three main principles to support reproducible analyses.
