@@ -25,7 +25,6 @@ We focus on three main principles to support reproducible analyses.
 ### Efficiency
 - Parallel execution on a single workstation and an HPC
 - Modular design
-- Core + extensions architecture
 - Interface to download data from common sources, including OpenNEURO
 - Installation scripts for tools
 
