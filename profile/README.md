@@ -29,4 +29,5 @@ We focus on three main principles to support reproducible analyses.
 - Installation scripts for tools
 
 ## Resources
-[Reproducible Analysis (reproa)](https://github.com/reprostat/reproanalysis) is the main pipeline system for this project.
+- [Reproducible Analysis (reproa)](https://github.com/reprostat/reproanalysis) is the main pipeline system for this project.
+- [Workshops repository](https://github.com/reprostat/workshops) contains various educational materials.
